@@ -1,7 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC");
 svg {
   background-color: black;
 }
-@import url("https://fonts.googleapis.com/css?family=Amatic+SC");
 #text {
-  font-family: Amatic SC; 
+  font-family: anamatic sc;
+  color: pink;
 }
