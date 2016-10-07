@@ -1,8 +1,21 @@
-@import url("https://fonts.googleapis.com/css?family=Amatic+SC");
+@import url("https://fonts.googleapis.com/css?family=Amatica+SC");
 svg {
   background-color: black;
 }
-#text {
-  font-family: anamatic sc;
-  color: pink;
+h1 {
+  text-align:center;
+  font-family: arial black;
+  font-size: 300%;
+}
+h2 {
+  text-align: center;
+  font-family: Amatica SC;
+  font-size: 250%;
+  color: gray;
+}
+p {
+  font-family: arial;
+}
+body {
+  background-image: url("https://www.xmple.com/wallpaper/linear-yellow-gradient-white-1920x1080-c2-ffdab9-ffffff-a-300-f-14.svg");
 }
